@@ -15,11 +15,11 @@
 <div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/downloads-3.2k-brightgreen?style=flat" alt="downloads"/></a>
-<a href="#"><img src="https://img.shields.io-badge/version-4.0-blue?style=flat" alt="version"/></a>
+<a href="#"><img src="https://img.shields.io/badge/version-4.0-blue?style=flat" alt="version"/></a>
 <a href="#"><img src="https://img.shields.io/badge/license-Single%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://static.macupdate.com/screenshots/300230/m/appzapper-screenshot.png?v=1617643240" width="824" alt="Screenshot"/>
+<img src="https://cdn.mos.cms.futurecdn.net/ead2bd57812693dbb281426f4242b469.jpg" width="824" alt="Screenshot"/>
 
 </div>
 
